@@ -1,0 +1,7 @@
+django==3.2
+djangorestframework
+django-cors-headers
+mysqlclient
+cloudinary
+python-decouple
+djangorestframework-simplejwt
